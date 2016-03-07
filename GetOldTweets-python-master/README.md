@@ -1,5 +1,6 @@
 # Get Old Tweets Programatically
 A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
+Borrowed from here [Jefferson Henrique](https://github.com/Jefferson-Henrique/GetOldTweets-python).
 
 ## Details
 Twitter Official API has the bother limitation of time constraints, you can't get older tweets than a week. Some tools provide access to older tweets but in the most of them you have to spend some money before.
