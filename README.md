@@ -9,6 +9,17 @@ Currently includes two notebooks:
 
 Similar python code is contained in sentiment.py and tweets_sentiment.py
 
+Requires:
+Python 2.7
+- scikit-learn 0.18.dev0
+- numpy
+- cPickle
+(jupyter notebook is recommended)
+
+To install scikit-learn v. 0.18.dev0, currently do the following:
+
+``pip install git+git://github.com/scikit-learn/scikit-learn.git``
+
 ## Questions?
 
 [Drop me a line](http://macrocosme.github.io/#contact) here!
